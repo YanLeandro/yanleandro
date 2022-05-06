@@ -9,7 +9,7 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho mast
 
 
 - Gosto de fazer trilhas e correr.
-- Practico Jiu-jitsu - Blue-belt 
+- BJJ-Ryan Gracie - Blue-belt 
 - As vezes faço trocadilhos / piadas ruins.
 - Comida preferida: Pasta.
 
@@ -25,8 +25,8 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho mast
 ## 📫 Contatos
 
 
-[![Twitter Badge](https://img.shields.io/badge/@leovargasdev-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/leovargasdev)](https://twitter.com/leovargasdev)
-[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Vargas-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-luis-de-vargas/)](https://www.linkedin.com/in/leonardo-luis-de-vargas/) 
+[![Twitter Badge](https://img.shields.io/badge/@yanleandro?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/leovargasdev)](https://twitter.com/yanleandro11)
+[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Vargas-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-leandro/)](https://www.linkedin.com/in/yan-leandro/) 
 
 ![leovargasdev github stats](https://github-readme-stats.vercel.app/api?username=leovargasdev&hide=[%22issues%22]&show_icons=true)
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
