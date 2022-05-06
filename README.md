@@ -14,11 +14,13 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho mast
 - Comida preferida: Pasta.
 
 ## 📋 Skills
+<div style="display: inline_block"><br>
 
-[![JS](https://img.shields.io/badge/JavaScript-5E5C5C?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=plastic)]()
   <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+</div>
 
 
 
