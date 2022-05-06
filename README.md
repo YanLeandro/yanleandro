@@ -1,6 +1,6 @@
 # Olá meus jovens 👋
 
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv1o-xqcqVQ2_VIBN9IX3M9t16BGCjr19OQ&usqp=CAU" width="300"/> 
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv1o-xqcqVQ2_VIBN9IX3M9t16BGCjr19OQ&usqp=CAU" width="200" /> 
 
 Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho master em Governaça Corporativa e atualmente sou desenvolvedor **Frontend Junior** 
 
@@ -21,7 +21,6 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho mast
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
-
 
 
 ## 📫 Contatos
