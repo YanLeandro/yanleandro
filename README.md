@@ -1,34 +1,34 @@
-### Hi there 👋
+# Olá meus jovens 👋
 
-<!--
+<img align="right" src=".github/image.png" width="300"/> 
+
+Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho master em Governaça Corporativa e atualmente sou desenvolvedor **Frontend Junior** 
 
 
-Here are some ideas to get you started:
+### ✨ Curiosidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-## Oiii eu sou Yan Leandro, 
+- Gosto de fazer trilhas e correr.
+- Practico Jiu-jitsu - Blue-belt 
+- As vezes faço trocadilhos / piadas ruins.
+- Comida preferida: Pasta.
 
-</div>
+## 📋 Skills
+
+[![JS](https://img.shields.io/badge/JavaScript-5E5C5C?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=plastic)]()
   <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-  
- 
-<div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+
+
+## 📫 Contatos
+
+
+[![Twitter Badge](https://img.shields.io/badge/@leovargasdev-2D425E?style=flat&labelColor=2D425E&logo=twitter&logoColor=white&link=https://twitter.com/leovargasdev)](https://twitter.com/leovargasdev)
+[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Vargas-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-luis-de-vargas/)](https://www.linkedin.com/in/leonardo-luis-de-vargas/) 
+
+![leovargasdev github stats](https://github-readme-stats.vercel.app/api?username=leovargasdev&hide=[%22issues%22]&show_icons=true)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
