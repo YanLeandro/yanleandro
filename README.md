@@ -2,7 +2,7 @@
 
 <img align="right" src=".github/image.png" width="300"/> 
 
-Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho master em Governaça Corporativa e atualmente sou desenvolvedor **Frontend Junior** 
+Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho master em Governaça Corporativa e atualmente sou desenvolvedor **Frontend Junior**. 
 
 
 ### ✨ Curiosidades
@@ -11,7 +11,7 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho mast
 - Gosto de fazer trilhas e correr.
 - BJJ-Ryan Gracie - Blue-belt 
 - As vezes faço trocadilhos / piadas ruins.
-- Comida preferida: Pasta.
+- Comida preferida: Comida Italiana.
 
 ## 📋 Skills
 <div style="display: inline_block"><br>
