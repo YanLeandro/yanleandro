@@ -1,6 +1,6 @@
 # Olá meus jovens 👋
 
-<img align="right" src="https://santaportal.com.br/wp-content/uploads/2021/05/201812121941557g.jpg" width="300"/> 
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGLEod3F7YvslbBW6ChZ92ORSYmjuB6wj2qw&usqp=CAU" width="300"/> 
 
 Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho master em Governaça Corporativa e atualmente sou desenvolvedor **Frontend Junior** 
 
