@@ -25,7 +25,9 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho mast
 
 ## 📫 Contatos
 
-[![Linkedin Badge](https://img.shields.io/badge/yan%20leandro-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-leandro/)](https://www.linkedin.com/in/yan-leandro/) 
+E-Mail: yanleandro658@gmail.com
+Linkedin: https://www.linkedin.com/in/yan-leandro/
+Github: https://github.com/YanLeandro
 
 ![leovargasdev github stats](https://github-readme-stats.vercel.app/api?username=leovargasdev&hide=[%22issues%22]&show_icons=true)
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
