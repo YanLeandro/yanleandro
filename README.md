@@ -2,7 +2,7 @@
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv1o-xqcqVQ2_VIBN9IX3M9t16BGCjr19OQ&usqp=CAU" width="200" /> 
 
-Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho master em Governaça Corporativa e atualmente sou desenvolvedor **Frontend Junior**.
+Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administração e tenho master em Governaça Corporativa e atualmente sou desenvolvedor **Frontend Junior**.
 
 
 ### ✨ Curiosidades
