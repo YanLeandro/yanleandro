@@ -25,9 +25,14 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administraçao e tenho mast
 
 ## 📫 Contatos
 
-E-Mail: yanleandro658@gmail.com
-Linkedin: https://www.linkedin.com/in/yan-leandro/
-Github: https://github.com/YanLeandro
+<div style="display: inline"><br>
+ <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/91055703/167375479-615db2d4-674d-4511-a2a2-c651cef1f908.png">
+  <h4>E-Mail: yanleandro658@gmail.com</h4>
+  <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/91055703/167376592-a13091c8-0687-434c-a757-ec38f99ab18c.png">
+<h4>Linkedin: https://www.linkedin.com/in/yan-leandro/</h4>
+  <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/91055703/167376943-774ffc27-9202-49ce-97b8-b84bee6782c4.png">
+<h4>Github: https://github.com/YanLeandro</h4>
+</div>
 
 ![leovargasdev github stats](https://github-readme-stats.vercel.app/api?username=leovargasdev&hide=[%22issues%22]&show_icons=true)
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
