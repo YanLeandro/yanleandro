@@ -34,7 +34,6 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administração e tenho mas
 <h4>Github: https://github.com/YanLeandro</h4>
 </div>
 
-![leovargasdev github stats](https://github-readme-stats.vercel.app/api?username=leovargasdev&hide=[%22issues%22]&show_icons=true)
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
