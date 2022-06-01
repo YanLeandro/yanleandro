@@ -10,7 +10,6 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administração e tenho mas
 
 - Gosto de fazer trilhas, correr e viajar.
 - BJJ-Ryan Gracie - Blue-belt. 
-- As vezes faço trocadilhos / piadas ruins.
 - Comida preferida: Italiana.
 - Aprendendo Python
 
