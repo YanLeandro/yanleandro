@@ -31,8 +31,7 @@ Me chamo Yan Leandro, tenho 29 anos, sou bacharel em Administração e tenho MBA
   <h4>E-Mail: yanleandro658@gmail.com</h4>
   <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/91055703/167376592-a13091c8-0687-434c-a757-ec38f99ab18c.png">
 <h4>Linkedin: https://www.linkedin.com/in/yan-leandro/</h4>
-  <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/91055703/167376943-774ffc27-9202-49ce-97b8-b84bee6782c4.png">
-<h4>Github: https://github.com/YanLeandro</h4>
+
 </div>
 <hr>
 
