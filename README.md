@@ -26,11 +26,14 @@ Me chamo Yan Leandro, sou bacharel em Administração e tenho MBA - Governança 
 
 ## 📫 Contatos
 
-<div style="display: inline"><br>
- <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/91055703/167375479-615db2d4-674d-4511-a2a2-c651cef1f908.png">
-  <h4>E-Mail: yanleandro658@gmail.com</h4>
-  <img align="center" height="30" width="30" src="https://user-images.githubusercontent.com/91055703/167376592-a13091c8-0687-434c-a757-ec38f99ab18c.png">
-<h4>Linkedin: https://www.linkedin.com/in/yan-leandro/</h4>
+<div> 
+  <a href="https://www.youtube.com/channel/UCMVjD8KStr2y0OK5hJknIog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.instagram.com/davi_lima_d/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/WYbtAMRX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/0/#sent?compose=DmwnWrRlQhldCCMlQSNxpQWsghLvQblWdtdCzfmBPsMxTTkxBStpnxcCxKvtPtXvWjnkdgmwkhVb"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
+  ##
 
 </div>
 <hr>
