@@ -1,8 +1,8 @@
 # Olá meus amigos 👋
 
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv1o-xqcqVQ2_VIBN9IX3M9t16BGCjr19OQ&usqp=CAU" width="200" /> 
 
-Me chamo Yan Leandro, sou bacharel em Administração e tenho MBA - Corporate Finance e atualmente sou desenvolvedor **Frontend Junior**.
+
+Me chamo Yan Leandro, sou bacharel em Administração e tenho MBA - Corporate Finance e atualmente sou desenvolvedor **Android | Kotlin**
 
 
 ### ✨ Curiosidades
@@ -11,7 +11,7 @@ Me chamo Yan Leandro, sou bacharel em Administração e tenho MBA - Corporate Fi
 - Gosto de fazer trilhas, correr e viajar.
 - BJJ-Ryan Gracie - Blue-belt. 
 - Comida preferida: Italiana.
-- Aprendendo Python
+
 
 ## 📋 Skills
 <div style="display: inline_block"><br>
@@ -19,7 +19,7 @@ Me chamo Yan Leandro, sou bacharel em Administração e tenho MBA - Corporate Fi
   <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img align="center" alt="Davi-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
 
 </div>
 
