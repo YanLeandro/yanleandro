@@ -2,7 +2,7 @@
 
 
 
-Me chamo Yan Leandro, sou bacharel em Administração e tenho MBA - Corporate Finance e atualmente sou desenvolvedor **Android | Kotlin**
+Me chamo Yan Leandro, sou bacharel em Administração e especialista em corporate finance e atualmente sou desenvolvedor **Android | Kotlin**
 
 
 ### ✨ Curiosidades
