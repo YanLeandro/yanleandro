@@ -37,8 +37,6 @@ Me chamo Yan Leandro, sou bacharel em Administração e especialista em corporat
 </div>
 <hr>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
  <p align="center"> 
   Visitor count:<br>
   <img src="https://profile-counter.glitch.me/Davi-ldc/count.svg" />
